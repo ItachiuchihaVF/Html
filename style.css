@@ -1,0 +1,22 @@
+body {
+    background-color:black;
+    margin: 0%;
+    background-image: url("imagens/Itachi.GIF" );
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#navbar{
+    Background-color: red;
+    width: 100%;
+    height: 100px;
+}    
+
+#CaixaUm {
+    background-color: red;
+    width: 100%;
+    height: 50px;
+}
+
+#curiosidades{
+    background-color: white;
+}
