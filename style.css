@@ -10,6 +10,12 @@ body {
     width: 100%;
     height: 100px;
 }    
+ul{
+    display: flex;
+    list-style: none;font;
+    justify-content: space-around;
+    padding-top: 20px;
+}
 
 #CaixaUm {
     background-color: red;
